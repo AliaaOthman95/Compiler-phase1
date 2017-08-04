@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1491823329 source:/home/mark/code blocks/CompilerV6/main.cpp
+	<iostream>
+	<stack>
+	<stdio.h>
+	<string.h>
+	<map>
+	<list>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+
+1491854989 source:/home/aliaa/Desktop/final compiler/CompilerV6/main.cpp
+	<iostream>
+	<stack>
+	<stdio.h>
+	<string.h>
+	<map>
+	<list>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+
